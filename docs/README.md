@@ -23,4 +23,4 @@ As you can see on the Sidebar, this resource is split into 4 sections to offer:
 
 ## Editing this Website
 
-This website is hosted on [Gitbook](https://www.gitbook.com/)! To get edit access, please speak to a CodeYourFuture Programme Manager.
+This website is hosted on [Gitbook](https://www.gitbook.com/). To get edit access, please speak to a CodeYourFuture Programme Manager.
