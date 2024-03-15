@@ -1,0 +1,195 @@
+# Applicant Interviews
+
+## WE no longer run these interviews and use Fundamentals instead
+
+
+
+Before every new course, we make sure to interview our potential learners as a final step before acceptance into the Fundamentals course.
+
+## Aims
+
+* Get to the know the applicants
+  * This is the first time we've ever met them! We have to be sure we can work with them for the next eight months
+* Assess that the applicants have retained the knowledge they have learnt during the application process
+  * We need to confirm that the applicants actually did the work themselves
+* Assess the applicants have a good level of English speaking and reading
+  * Applicants might have gotten help from friends and family for written work
+
+## Getting Setup
+
+Make sure you have all of the following information before you have your first interview
+
+1. You have access to [the Dashboard](https://dashboard.codeyourfuture.io) (or alternative way of getting information about your applicants)
+   * If you do not have access, speak to your coordinator
+2. Read this document fully
+3. Make sure you have access to the interview form&#x20;
+4. Make sure you have read the [Interview Technical](https://docs.codeyourfuture.io/course-processes/before-the-course/student-interviews/interview-technical), [Interview English](https://docs.codeyourfuture.io/course-processes/before-the-course/student-interviews/interview-english) and  [Interview Rubric](interview-rubric.md)
+
+## Roles
+
+### Greeters (for face to face interviews)
+
+Make sure you have at least two volunteers welcoming the Applicants to the interviews. Record their attendance, give them a tour of the premises and get them a coffee or a tea. These interviews can be very intimidating for some of our applicants so you should take time to make sure that people feel welcome and safe.
+
+See below for explaining how the interviews will work.&#x20;
+
+### Greeters (for online interviews)
+
+Make sure you have someone in a  Zoom break out room (which will be the waiting room) welcoming the Applicants to the interviews. These interviews can be very intimidating for some of our applicants so you should take time to make sure that people feel welcome and safe. Take time to explain that the interviews are  so we can get to know them better. Emphasise that they've made it this far, and we think they have great potential.\
+
+
+#### Set Up
+
+Have them test their camera and microphone to ensure everything is working. Support them to get all their relevant webpages ready on their computer. Ensure everyone knows how to share their screen on Zoom.&#x20;
+
+#### Interview Process
+
+Explain how the interview will work. The interview has 4 parts.  \
+We will first check their name and identity. \
+So they will need to show the interviewer their photo ID and confirm the spelling of their name. \
+Then they will have to talk about what they learned and their motivation for the course. They will need to share their webpage and talk about their code. \
+They will do a short English task. \
+And finally they will wrap up and have an opportunity to ask any questions. \
+\
+
+
+### Interviewers
+
+In this context a technical interviewer is somehow who is comfortable asking questions about code and programming skill. Personal (or non-technical) interviewers should access trainee soft skills and motivations to do the course. It is encouraged for interviewers to justify their decisions to each other.
+
+Interviewers will typically have thirty minutes to conduct each interview.
+
+Both technical and non-technical volunteers should:
+
+* Aim to be as objective and fair as possible
+* Be mindful of their biases
+* If in doubt, record more information than you think is necessary
+* Take notes on the applicant when they the other interviewer is talking
+
+#### Personal Interviewers
+
+Personal Interviewers should focus on questions surrounding
+
+* Why the applicant wants to be a programmer
+* How the applicant will find time to do the course
+* Any support that the applicant may need during the course
+
+This will mostly be the first section of the form.
+
+#### Technical Interviewers
+
+Technical interviewers should focus on questions surrounding
+
+* The applicant's work that they have submitted
+* Assessing the applicant current understanding of programming (none is required but it's good to know)
+
+This will mostly be the second section of the form.
+
+You can find a guide for this section of the interview [here](interview-technical.md)
+
+## Who are our applicants?
+
+Our applicants come from a wide variety of backgrounds. You can see lots of background information on our students [here](../../../organisation/understand-students.md)
+
+## Interview Days
+
+Interview days generally run the whole day and require a large number of both technical and non-technical volunteers.
+
+As applicants arrive they should be taken to a quiet space with one technical volunteer (someone who understands code) and one non-technical volunteer.
+
+Together they should complete this form:
+
+[Trainee Interview Form](https://docs.google.com/forms/d/1msNvvPWXt1MggioGjVsZaewTksxr0UOqgPXGfwxe4-E/edit)
+
+**The Programme Manager should duplicate this form for each Class. Please contact your Programme Manager for access to this Google form.**
+
+We ask that you arrive at least ten minutes before the interview that you will be attending to prepare.
+
+### Technical Assessment
+
+You can find a guide for the technical section of the interview [here](interview-technical.md)
+
+### English Assessment
+
+You can find an English Assessment test [here](https://codepen.io/enz0/full/eYzOeVg).
+
+The guide for the assessment can be found [here](interview-english.md)
+
+### Feeding Back on Applicants
+
+When completing the form you should endeavour to write as much as you can for each candidate as this will be our primary resource for deciding who will get a place on the course.
+
+It is important to be firm but fair in grading applicants. Do not give a applicant 10/10 for everything just because you like them.
+
+We will be cross-referencing scores against feedback recorded so it is important to always give a full description of how applicants responded to questions in the interview.
+
+You should make sure you use the [Interview Rubric](interview-rubric.md) to applicants responses.
+
+### Upper Bounds & Lower Bounds
+
+When selecting applicants it is important to keep in mind that a applicant can be of too high ability as well as too low.
+
+A applicant with too low ability may
+
+* not understand English to a sufficient level
+* not be able to explain their code well enough
+* not show a particularly great drive to be a programmer
+
+A applicant with too high ability may
+
+* already know how to program to an advanced level
+* have studied programming for a prolonged period of time
+* be capable of getting a programming job already
+
+It's important to spot both lower and upper bound applicants as our course may not be the right fit for them at this time.
+
+For lower bound applicants, a referral to a less intense programming course or further English lessons may be a better solution. Our course can be very challenging for people and if we're not sure that they're ready then we should endeavour to be upfront and supportive wherever possible.
+
+For upper bound applicants, it may be preferable to give them the skills they need to be able to get a job and have them start applying. This could take the form of personal development lessons or some sessions working on our tech projects. We're in the business of finding jobs for the people and if the most efficient way to do that is by **not** joining our course then that is the best outcome.
+
+## Ideal Trainee
+
+When selecting applicants your primary aim should be to answer this statement.
+
+```
+I believe that the applicant shows the potential and drive to complete the course and get the job as a developer.
+```
+
+You can read our outline of what an ideal graduate of our course might look like [here](https://docs.codeyourfuture.io/volunteers/course-eligibility#our-ideal-trainee)
+
+Previous programming experience is not required to join the course however it is a good determinant of a person showing passion for coding.
+
+A strong candidate for our course should
+
+* show that they are passionate about programming
+* show potential or current experience of being a self-learner
+* show a good to very good grasp of the English language
+* show they are open to feedback
+* show they understand the scale of the challenge
+* show that they are ready to undertake such a large challenge
+* show that they are focussing on our course
+* be somebody who would fit into our community
+
+## Frequently Asked Questions
+
+Most of the students you are interviewing are part of the `Intro To Coding Slack Channel` - most students can ask questions there.
+
+You can find the most common questions answered [here](https://github.com/CodeYourFuture/DocsV2/tree/c265f38db4043052aa0d06e2868151793028f82b/students/faqs/README.md). You can send the trainee a link to this page as well.
+
+### Any specific technical questions
+
+You can let them know that this will be covered in the course and that now might not be the best time to ask.
+
+### All other questions
+
+For any other questions they can direct them to their region email address
+
+* london@codeyourfuture.io
+* west-midlands@codeyourfuture.io
+* north-west@codeyourfuture.io
+* scotland@codeyourfuture.io
+* rome@codeyourfuture.io
+* capetown@codeyourfuture.io
+* etc
+
+You're also welcome to share this documentation website with them.
