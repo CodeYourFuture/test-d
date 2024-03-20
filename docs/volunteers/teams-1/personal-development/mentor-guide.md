@@ -12,7 +12,7 @@ description: >-
 There are a couple of things that you should do before you start:
 
 * Read the [Code of Conduct](https://codeyourfuture.io/about/code-of-conduct/) carefully and ensure that you understand and agree with it
-* Read the [Safeguarding presentation](https://docs.google.com/presentation/d/10DA\_Z3mglS4XHPNygTNmJP1s9lXT6y6joM-94-d9pC8/edit#slide=id.g1398ccd695a\_0\_416) thoroughly
+* Read the Safeguarding presentation thoroughly
 * Read the Coach guidelines carefully and ensure you understand and agree with them. The guidelines should be followed throughout your volunteering experience
 
 After completing the steps above, you will be assigned to a group during the JS1 module.

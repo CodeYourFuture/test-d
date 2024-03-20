@@ -20,4 +20,4 @@ Join PD Slack channels
 
 * Read the PD Coach Guide&#x20;
 * Use this [spreadsheet ](https://docs.google.com/spreadsheets/d/1adLpP2BE9t18\_QkuMhrV7aAkdU6aI0H5pQGia49\_Dlk/edit#gid=0)to upload the content/give an update about what you did in every meeting and to keep track of attendees
-* Refresh your knowledge on [Code of Conduct](https://codeyourfuture.io/about/code-of-conduct/) and [Safeguarding](https://docs.google.com/presentation/d/10DA\_Z3mglS4XHPNygTNmJP1s9lXT6y6joM-94-d9pC8/edit#slide=id.g1398ccd695a\_0\_416)&#x20;
+* Refresh your knowledge on [Code of Conduct](https://codeyourfuture.io/about/code-of-conduct/) and Safeguarding&#x20;
