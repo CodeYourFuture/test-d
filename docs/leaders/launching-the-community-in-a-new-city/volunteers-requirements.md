@@ -14,7 +14,7 @@ To run the Fundamentals course you will need a team of at least:
 
 **Running Full stack Course - 8 months - based on a class of 30 students - 10 modules**
 
-* 10 PD Buddies
+* 8-10 PD Coaches
 * 10 EDU Buddies
   * For each module you will need also:
     * 2 Module Leads
