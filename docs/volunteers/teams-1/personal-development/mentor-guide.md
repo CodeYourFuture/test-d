@@ -34,11 +34,12 @@ After completing the steps above, you will be assigned to a group during the JS1
 
 * Inform your group if you are not available for a meeting
 * Support and encourage initiative for trainees to discuss first
-* Ask open questions to support reflection, not rhetorical or yes/no questions.
+* Ask open questions to support reflection, not rhetorical or yes/no questions
 * Follow up, e.g. send any documents or links you promised
 * Always think: “Would I hire this trainee?” If not, give them a clear example of why
-* Always guide the conversation about career and professional development. If there are any other questions, guide the trainee to discuss them with the cohort volunteers or trainees.
-* Any safeguarding concerns should be raised with the staff ([cs@codeyourfuture.io](mailto:cs@codeyourfuture.io)).
+* Always guide the conversation about career and professional development. If there are any other questions, guide the trainee to discuss them with the cohort volunteers or trainees
+* Any safeguarding concerns should be raised with the staff ([cs@codeyourfuture.io](mailto:cs@codeyourfuture.io))
+* If faced with a [topic](https://cyf-signposts.netlify.app/about/) you can't/shouldn't help with use this [Signposting tool](https://cyf-signposts.netlify.app/)
 
 \
 **Meeting topics**
