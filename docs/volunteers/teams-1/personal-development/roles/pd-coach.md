@@ -12,7 +12,7 @@ As a PD Coach you will:
   &#x20;       \-Have visibility of how they are doing on their coursework, so any gaps and feedback can be discussed\
   &#x20;       \-Go to a Saturday class at least once every 3 months, if you are close to a cohort
 
-**Time commitment:** 1 hour every other week per group
+**Time commitment: 2** hour every other week per group
 
 ### Requirements:&#x20;
 
