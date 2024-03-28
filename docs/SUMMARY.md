@@ -168,6 +168,7 @@
   * [Running the course](archive/archived-pages/running-the-course/README.md)
   * [Getting a Job](archive/archived-pages/getting-a-job.md)
   * [Useful Links](archive/archived-pages/useful-links.md)
+  * [Hackathons](archive/archived-pages/hackathons.md)
   * [Asking Questions](archive/archived-pages/asking-questions.md)
   * [Hosting on Netlify](archive/archived-pages/hosting-netlify.md)
   * [Applicant Interviews](archive/archived-pages/student-interviews/README.md)
