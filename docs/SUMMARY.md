@@ -108,7 +108,7 @@
     * [Slack for Volunteers](volunteers/tools/slack/for-volunteers.md)
     * [Slack for Trainees](volunteers/tools/slack/for-students.md)
 * [Volunteer Expenses](volunteers/volunteer-expenses.md)
-* [Leaving or stepping back](volunteers/leaving-or-stepping-back.md)
+* [Leaving or Stepping Back](volunteers/leaving-or-stepping-back.md)
 
 ## 🚀 PROGRAMME DELIVERY <a href="#leaders" id="leaders"></a>
 
