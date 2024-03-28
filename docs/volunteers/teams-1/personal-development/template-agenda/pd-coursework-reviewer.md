@@ -13,7 +13,7 @@ description: >-
   * Designated cohort/PD Volunteers channel - based on your location, for example, Glasgow search for "Glasgow", "Scotland", "GLA".
 * **Join PD Slack channels**
   * [Global PD Volunteer](https://app.slack.com/client/T2H71EFLK/C03JH62SUEL): channel for all PD volunteers at CYF
-  * [CYF Syllabus PD](https://app.slack.com/client/T2H71EFLK/C01KMRERKS5): channel for you to give feedback on the coursework
+  * [PD Coursework Review](https://codeyourfuture.slack.com/archives/C066HFYJ478): channel for all coursework reviewers.
 * Create a **GitHub** account -[ join Github](https://github.com/)
 
 ## How to do the Coursework review
