@@ -165,6 +165,7 @@
   * [Intro to Digital (ITD)](archive/archived-pages/application-process/README.md)
     * [Re-application Requirements for Application rejection](archive/archived-pages/application-process/untitled.md)
   * [After Graduation](archive/archived-pages/after-graduation.md)
+  * [Running the course](archive/archived-pages/running-the-course/README.md)
   * [Getting a Job](archive/archived-pages/getting-a-job.md)
   * [Useful Links](archive/archived-pages/useful-links.md)
   * [Asking Questions](archive/archived-pages/asking-questions.md)
