@@ -4,4 +4,4 @@ Here you will find out more about the roles we have for CYF Products and Final P
 
 
 
-You can learn more about [CYF Products](../../../trainees/cyf-products/) and [Final Projects](https://syllabus.codeyourfuture.io/finalproject/intro) on their respective pages (link on names).
+You can learn more about [CYF Products](../../../trainees/cyf-products/) and [Launch Module](https://cyf-curriculum.netlify.app/the-launch/) on their respective pages (link on names).
