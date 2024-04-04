@@ -1,6 +1,6 @@
 # CYF Products/Final Projects
 
-Here you will find out more about the roles we have for CYF Products and Final Projects.
+Here you will find out more about the roles we have for CYF Products and Launch Module.
 
 
 
