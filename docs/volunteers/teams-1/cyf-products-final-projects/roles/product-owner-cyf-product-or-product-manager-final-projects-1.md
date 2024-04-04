@@ -4,29 +4,25 @@ description: Voluntary Role
 
 # Product Manager
 
-CodeYourFuture (CYF) is looking for a **Product Owner** responsible for working with a product team to deliver the roadmap.&#x20;
+CodeYourFuture (CYF) is looking for a **Product Manager** responsible for working with one of the [Launch Module ](https://cyf-curriculum.netlify.app/the-launch/)teams to deliver their briefing.&#x20;
 
-The Product Teams are responsible for building features that support the day-to-day processes of CYF. These could be new hypothesis-driven, supporting everyday activities or with an educational focus.
+The [Launch Module](https://cyf-curriculum.netlify.app/the-launch/) is the last project of our 9-month-long trainees' [Software Developer Course](https://cyf-curriculum.netlify.app/) and the first one in launching their careers as Software Developers. This team must deliver a briefing within 4 weeks.
 
-We have two options for this role, and they have different **commitments**, which consider the best way you and Code Your Future get the most out of the experience.&#x20;
-
-* **PM at a Final Project:** 2-4 hours per week plus Saturday all day. It is a 5-week long commitment.
-* **PO at a CYF Product Team**: commit **7 hours weekly** for at least three months, including **weekly meetings.**&#x20;
+The time **commitment is 2-4 hours per week plus Saturday all day**. It is a 5-week long commitment.&#x20;
 
 \
 **Who are you?**
 
 * Looking to **volunteer** in a Product team
-* **Experience in Product delivery** of at least **one year** in a role such as **Business Analysis, Scrum Master, Product Owner**, etc.)&#x20;
+* **Experience in Product delivery** of at least **one year** in a role such as **Business Analysis, Scrum Master, Product Owner**, **Product Manager,** etc.)&#x20;
 * Good stakeholder management and communication skills
 
 #### **Your responsibilities:**
 
-* [ ] Communicate the vision, direction and clear priority to the Agile development team.&#x20;
-* [ ] Define epics, user stories and prototypes with the support of the Scrum team and Business.
-* [ ] Prioritise the backlog
+* [ ] Work with the team and the stakeholders on the vision, direction and clear priorities
+* [ ] Define epics, user stories and prototypes with the support of the Scrum team and stakeholders.
+* [ ] Prioritise the backlog with the team members
 * [ ] Ensure the team always has adequate tasks ready in the backlog for each sprint.
-* [ ] Create support and training documents for internal and external users.
-* [ ] Performing quality assurance controls on products
-* [ ] Monitor and report on users’ reactions after launching.
-* [ ] In case there is no Scrum Master on the team, you would be responsible for managing the day-to-day of the team (description [here](https://docs.google.com/document/d/1lUI99YjerYyNZDvNUmQQKSSd5-i3Ura2a9oQ8b0L3rM/edit?usp=sharing))
+* [ ] Performing quality assurance controls on products, if needed
+* [ ] Incentivising the team to be self-organised and accountable
+* [ ] Working with the team members on any conflicts
