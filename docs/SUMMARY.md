@@ -92,7 +92,7 @@
   * [Employability](volunteers/teams-1/employability/README.md)
     * [Regional Employability Role](volunteers/teams-1/employability/regional-employability-role.md)
     * [Career Mentors](volunteers/teams-1/employability/career-mentors.md)
-  * [CYF Products/Final Projects](volunteers/teams-1/cyf-products-final-projects/README.md)
+  * [CYF Products/Launch Module](volunteers/teams-1/cyf-products-final-projects/README.md)
     * [Roles](volunteers/teams-1/cyf-products-final-projects/roles/README.md)
       * [Product Owner](volunteers/teams-1/cyf-products-final-projects/roles/product-owner-cyf-product-or-product-manager-final-projects.md)
       * [Product Manager](volunteers/teams-1/cyf-products-final-projects/roles/product-owner-cyf-product-or-product-manager-final-projects-1.md)
