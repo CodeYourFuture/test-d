@@ -98,6 +98,7 @@
       * [Product Manager (Launch Module)](volunteers/teams-1/cyf-products-final-projects/roles/product-owner-cyf-product-or-product-manager-final-projects-1.md)
       * [Scrum Master](volunteers/teams-1/cyf-products-final-projects/roles/scrum-master.md)
       * [Tech Lead](volunteers/teams-1/cyf-products-final-projects/roles/tech-lead.md)
+      * [Tech Lead (Launch Module)](volunteers/teams-1/cyf-products-final-projects/roles/tech-lead-1.md)
       * [Developer](volunteers/teams-1/cyf-products-final-projects/roles/developer.md)
       * [QA](volunteers/teams-1/cyf-products-final-projects/roles/qa.md)
       * [UI/UX Designer](volunteers/teams-1/cyf-products-final-projects/roles/ui-ux-designer.md)
