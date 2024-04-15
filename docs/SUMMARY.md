@@ -101,7 +101,7 @@
       * [Developer](volunteers/teams-1/cyf-products-final-projects/roles/developer.md)
       * [QA](volunteers/teams-1/cyf-products-final-projects/roles/qa.md)
       * [UI/UX Designer](volunteers/teams-1/cyf-products-final-projects/roles/ui-ux-designer.md)
-      * [Business Owner (Final Projects)](volunteers/teams-1/cyf-products-final-projects/roles/business-owner-final-projects.md)
+      * [Business Owner (Lauch Module)](volunteers/teams-1/cyf-products-final-projects/roles/business-owner-final-projects.md)
       * [DevOps Engineer](volunteers/teams-1/cyf-products-final-projects/roles/devops-engineer.md)
 * [Tools](volunteers/tools/README.md)
   * [Dashboard](volunteers/tools/cyf-dashboard.md)
