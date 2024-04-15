@@ -2,9 +2,9 @@
 description: Voluntary Role
 ---
 
-# Business Owner (Final Projects)
+# Business Owner (Lauch Module)
 
-Business Owner is the main contact for Final Projects teams to get the guidance, answer questions and support with prioritisation of the tasks.
+Business Owner is the main contact for Launch Module teams to get the guidance, answer questions and support with prioritisation of the tasks.
 
 It is a role that needs to be able to attend a weekly/bi-weekly meeting with our teams but we should consider daily availability since questions could come up at any time and could block the delivery.
 
