@@ -8,6 +8,8 @@ The Tech Lead will be part of an Agile Scrum Team supporting the developers on t
 
 Your commitment will be 2-4 hours per week plus Saturday all day. It is a 5-week long commitment.&#x20;
 
+This is the [link to the Launch Module](https://cyf-curriculum.netlify.app/the-launch/) prep and sprints, so you can get familiar with what will be expected.
+
 
 
 **Who are you?**
