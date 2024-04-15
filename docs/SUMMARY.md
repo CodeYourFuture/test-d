@@ -95,7 +95,7 @@
   * [CYF Products/Launch Module](volunteers/teams-1/cyf-products-final-projects/README.md)
     * [Roles](volunteers/teams-1/cyf-products-final-projects/roles/README.md)
       * [Product Owner](volunteers/teams-1/cyf-products-final-projects/roles/product-owner-cyf-product-or-product-manager-final-projects.md)
-      * [Product Manager](volunteers/teams-1/cyf-products-final-projects/roles/product-owner-cyf-product-or-product-manager-final-projects-1.md)
+      * [Product Manager (Launch Module)](volunteers/teams-1/cyf-products-final-projects/roles/product-owner-cyf-product-or-product-manager-final-projects-1.md)
       * [Scrum Master](volunteers/teams-1/cyf-products-final-projects/roles/scrum-master.md)
       * [Tech Lead](volunteers/teams-1/cyf-products-final-projects/roles/tech-lead.md)
       * [Developer](volunteers/teams-1/cyf-products-final-projects/roles/developer.md)
