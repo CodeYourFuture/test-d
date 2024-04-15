@@ -6,10 +6,7 @@ description: Voluntary Role
 
 The Tech Lead will be part of an Agile Scrum Team supporting the developers on the daily dev work to deliver value to the users and organisation.
 
-We have two options for this role, and they have different **commitments**, which consider the best way you and Code Your Future get the most out of the experience.&#x20;
-
-* **Final Projects:** 2-4 hours per week plus Saturday all day. It is a 5-week long commitment.&#x20;
-* **CYF** **Product Team:**  7 hours per week for at least three months, including being present in the weekly meetings
+Your commitment is 7 hours per week for at least three months, including being present in the weekly meetings.
 
 
 
