@@ -53,6 +53,8 @@ Submit the invoice and screengrabs of the portal with your claim.
 
 The expenses claim form will be pinned on Slack. You must submit a claim within 30 days of incurring the expense. Follow the exact instructions on the claim form.
 
+* Claims of £100 or above require an advanced written agreement from expenses@codeyourfuture.io before expenses are incurred.&#x20;
+
 The receipt must include:
 
 * the name, address and VAT registration number of the supplier (where relevant)

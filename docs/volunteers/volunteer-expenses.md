@@ -24,6 +24,8 @@ On rare occasions, you may need to stay overnight outside of your region. Code Y
 
 The expense claim form will be pinned on Slack. Volunteers should submit a claim within 30 days of incurring the expense. Volunteers should follow the exact instructions on the claim form.
 
+* Claims of £100 or above require written agreement from expenses@codeyourfuture.io
+
 The receipt should include:
 
 * The name, address and VAT registration number of the supplier
