@@ -8,7 +8,7 @@ Quality Assurance roles will be part of an Agile Scrum Team working on ensuring 
 
 This role is part of a **Product Team** responsible for building features that support the day-to-day processes of CYF.
 
-The ideal **commitment** is of 5 hours per week for at least 3 months, which includes the weekly meetings. This is so you and Code Your Future get the most out of the experience.&#x20;
+The ideal **commitment** is of 7 hours per week for at least 3 months, which includes the weekly meetings. This is so you and Code Your Future get the most out of the experience.&#x20;
 
 
 
