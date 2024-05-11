@@ -13,7 +13,7 @@ The steps for this your application are:
 3. The next exercise is to clone [this repo](https://github.com/CodeYourFuture/tech-products-demo) and work on its open issues. [This page](https://gist.github.com/textbook/1486e7a908e2d2a8b364b72cd1fe2125) helps with context
 4. You will then have an interview with the following agenda:\
    \- Introductions\
-   \- Demo of your exercise (non-technical roles) and full stack product (developers)\
+   \- Demo of your exercise (non-technical roles) and repo work (developers)\
    \- Technical questions \
    \- Competency-base questions\
    \- Wrap-up
