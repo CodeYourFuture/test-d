@@ -15,11 +15,11 @@ Please follow these sets of rules so we can work well together:
 **Please avoid the following behaviours:**
 
 * Do not send the same message repeatedly across groups or to many people's inboxes. Only send helpful information.
-* Share only legal content. Do not spread illegal material.
+* Share only legal content. **Do not spread illegal material.**
 * Participate sincerely without trying to fool or upset others.
 * Do not share inappropriate or adult content. Keep our community friendly for everyone.
 * Avoid offensive language and graphic content. Be respectful in all messages.
-* If you see concerning behaviour or content, inform the group administrators CodeYourFuture Digital Literacy contact (07469 488132) immediately so we can address it.
+* If you see concerning behaviour or content, inform the CodeYourFuture Digital Literacy contact (07469 488132) immediately so we can address it.
 
 By being part of our WhatsApp community, you agree to follow these guidelines. This will help create a supportive place where we can all learn new skills. Violating these rules may result in removal from the groups. We want to maintain a respectful environment for all members to collaborate and grow.
 
