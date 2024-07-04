@@ -15,6 +15,8 @@ Everyone at CodeYourFuture has barriers to education and some things we can help
 * [Food](trainee-expenses.md#lunch-on-class-days)
 * [Childcare](trainee-expenses.md#childcare)
 
+Reimbursements are for people who need them, and not for everyone.
+
 This policy explains how you can claim these expenses to help you come to class. These expenses don't count as income if you are claiming benefits.
 
 Code Your Future will reimburse into your named bank account; not that of a friend or family member. Find out [how to open a bank account.](https://docs.codeyourfuture.io/trainees/support/how-to-get-a-bank-account)
@@ -49,6 +51,26 @@ If the trainee is eligible for Government support, they should apply. Each month
 
 Submit the invoice and screengrabs of the portal with your claim.
 
+#### Claiming on non-class days
+
+Often there are community events during the week or opportunities for co-working. Trainees can still claim expenses to be able to take part in these activities. Only people who would be unable to access CYF without this support should claim expenses.
+
+Instances where you can claim include:
+
+* Spending at least 6 hours at the co-working space, or;
+* Attending a CYF community event;
+
+You can only claim expenses for co-working for one day in the week.
+
+To be eligible, you should be at least one of the following:
+
+* A trainee or applicant, working on CYF projects;
+* Pro-active in looking for a job in tech;
+* Be working on your portfolio, job applications or your CV;
+* Be working with other people on tech projects.
+
+As above, CYF can pay for up to 15 hours of childcare during the week. This is to support trainees participating in co-working or assist their at-home study.
+
 #### How to submit a claim
 
 The expenses claim form will be pinned on Slack. You must submit a claim within 30 days of incurring the expense. Follow the exact instructions on the claim form.
@@ -60,5 +82,10 @@ The receipt must include:
 * the name, address and VAT registration number of the supplier (where relevant)
 * the cost (including VAT where relevant) and description of the goods or services and
 * the date of the supply
+
+Please give details on your claim. For example:
+
+* "train to Birmingham" is not very detailed
+* "return train ticket to Birmingham for co-working" is much better
 
 If you have any questions, please email [expenses@codeyourfuture.io](mailto:expenses@codeyourfuture.io).
