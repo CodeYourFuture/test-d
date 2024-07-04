@@ -15,7 +15,7 @@ Everyone at CodeYourFuture has barriers to education and some things we can help
 * [Food](trainee-expenses.md#lunch-on-class-days)
 * [Childcare](trainee-expenses.md#childcare)
 
-Reimbursements are for people who need them, and not for everyone.
+**Reimbursements are for people who need them, and not for everyone.**
 
 This policy explains how you can claim these expenses to help you come to class. These expenses don't count as income if you are claiming benefits.
 
@@ -53,7 +53,7 @@ Submit the invoice and screengrabs of the portal with your claim.
 
 #### Claiming on non-class days
 
-Often there are community events during the week or opportunities for co-working. Trainees can still claim expenses to be able to take part in these activities. Only people who would be unable to access CYF without this support should claim expenses.
+Often there are community events during the week or opportunities for co-working. Trainees can still claim expenses to be able to take part in these activities. **Only people who would be unable to access CYF without this support should claim expenses.**
 
 Instances where you can claim include:
 
