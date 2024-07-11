@@ -28,6 +28,7 @@
   * [WhatsApp Community Guidelines](trainees/digital-literacy-program/whatsapp-community-guidelines.md)
 * [Intro to Digital Course](trainees/intro-to-coding-course/README.md)
   * [Course Materials](https://introtocoding.codeyourfuture.io/)
+  * [Intro To Digital Slack Community Guidelines](trainees/intro-to-coding-course/intro-to-digital-slack-community-guidelines.md)
 * [Fundamentals Course](trainees/fundamentals/README.md)
   * [Course Materials](https://syllabus.codeyourfuture.io/fundamentals/)
 * [Software Development Course](trainees/full-stack-course/README.md)
