@@ -140,6 +140,4 @@ Participation in the course is overseen completely by CodeYourFuture staff. All 
 Everyone here wants to help you get a good job in tech, for real. That is the whole point of Code Your Future.
 
 \
-**Please now** [**sign this agreement.**](https://codeyourfuture.eversign.com/embedded/a4062d0361324f7f97cba1105f164b24)
-
-\
+**Please now** [**sign this agreement**](https://bit.ly/cyf-trainee-agreement)**.**\
