@@ -18,7 +18,7 @@
     * [Personal Circumstances Forms](organisation/agreements-and-rules/student-agreement/personal-circumstances-forms.md)
     * [Course Withdrawal Request](organisation/agreements-and-rules/student-agreement/course-withdrawal-request.md)
     * [Leave of Absence Request](organisation/agreements-and-rules/student-agreement/leave-of-absence-request.md)
-  * [Volunteer Agreement](http://bit.ly/cyf\_vol\_agreement)
+  * [Volunteer Agreement](https://bit.ly/cyf-volunteer-agreement)
   * [Complaints Procedure](https://codeyourfuture.io/about/complaints-process/)
 
 ## 👨‍🎓 Trainees and Alumni <a href="#trainees" id="trainees"></a>
