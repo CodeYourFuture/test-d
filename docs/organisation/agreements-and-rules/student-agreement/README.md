@@ -12,7 +12,7 @@ If this is not your goal, please do not waste their time. It's okay to have othe
 
 * Follow the Code of Conduct ✅
 
-We expect our trainees to also fulfil the commitments below. **Please read and** [**sign this agreement.**](https://codeyourfuture.eversign.com/embedded/a4062d0361324f7f97cba1105f164b24)
+We expect our trainees to also fulfil the commitments below. [**Please read and sign this agreement**](https://docuseal.co/d/rC2N7P3XD2ptsC)**.**
 
 ### As a trainee I agree to:
 
