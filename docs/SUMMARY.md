@@ -101,6 +101,7 @@
       * [Tech Lead](volunteers/teams-1/cyf-products-final-projects/roles/tech-lead.md)
       * [Tech Lead (Launch Module)](volunteers/teams-1/cyf-products-final-projects/roles/tech-lead-1.md)
       * [Developer](volunteers/teams-1/cyf-products-final-projects/roles/developer.md)
+      * [Code Reviewer](volunteers/teams-1/cyf-products-final-projects/roles/code-reviewer.md)
       * [QA](volunteers/teams-1/cyf-products-final-projects/roles/qa.md)
       * [UI/UX Designer](volunteers/teams-1/cyf-products-final-projects/roles/ui-ux-designer.md)
       * [Business Owner (Lauch Module)](volunteers/teams-1/cyf-products-final-projects/roles/business-owner-final-projects.md)
