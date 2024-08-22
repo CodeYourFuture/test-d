@@ -1,16 +1,16 @@
 # PD Trainer
 
-As a PD Trainer you will:
+As a PD (Professional Development) Trainer you will:
 
-* Do weekly prep for PD sessions on Saturdays (whenever you facilitate a class)
-* Deliver PD content on Saturdays as a facilitator, not a teacher
+* Do the weekly prep for the PD sessions that you will facilitate on the following Saturdays&#x20;
+* Deliver PD content on Saturdays as a facilitator, _not_ a teacher
 * Provide trainees with feedback on their in-class exercises
-* Give feedback on Syllabus/Exercises to the PD Syllabus team
+* Give feedback on the Curriculum content to Syllabus team
 * Be trained on awareness of health and safety and safeguarding issues
 
 **Time commitment:** 5 hours per week (including Saturdays)
 
 ### Requirements:
 
-* Skills that you should possess or be open to work on: communication, listening, flexibility, open-mindedness, assertiveness, reliability, patience
+* Skills for this role: communication, listening, flexibility, open-mindedness, assertiveness, reliability, patience
 * Any background from the field of working with people is welcome but not necessary
