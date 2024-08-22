@@ -64,7 +64,6 @@
     * [Coursework Feedback](volunteers/teams-1/tech-education/homework-feedback.md)
     * [Training Tips](volunteers/teams-1/tech-education/training-tips.md)
   * [Professional Development](volunteers/teams-1/personal-development/README.md)
-    * [Overview](volunteers/teams-1/personal-development/overview.md)
     * [Roles](volunteers/teams-1/personal-development/roles/README.md)
       * [PD Trainer](volunteers/teams-1/personal-development/roles/pd-trainer.md)
       * [PD Coach](volunteers/teams-1/personal-development/roles/pd-coach.md)
@@ -186,3 +185,4 @@
   * [Requesting a Laptop or Support](archive/archived-pages/requesting-a-laptop-or-support.md)
   * [Graduation Module](archive/archived-pages/graduation-module.md)
   * [Join CYF Tech Products](archive/archived-pages/join-cyf-tech-products.md)
+  * [Overview](archive/archived-pages/overview.md)
