@@ -35,7 +35,6 @@
   * [Course Materials](https://syllabus.codeyourfuture.io)
 * [CYF Products](trainees/cyf-products/README.md)
   * [Our Products](trainees/cyf-products/our-products.md)
-* [Graduation Module](trainees/graduation-module.md)
 * [Guides](trainees/guides/README.md)
   * [Node Version Manager](trainees/guides/node.md)
   * [Common Responses](trainees/guides/common-responses/README.md)
@@ -186,3 +185,4 @@
   * [Re-admission to Course](archive/archived-pages/re-entry-to-course.md)
   * [Laptop Request](archive/archived-pages/laptop-request.md)
   * [Requesting a Laptop or Support](archive/archived-pages/requesting-a-laptop-or-support.md)
+  * [Graduation Module](archive/archived-pages/graduation-module.md)

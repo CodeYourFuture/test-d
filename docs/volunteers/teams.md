@@ -16,7 +16,7 @@ CYF local leadership team is divided in four teams: _Community Coordination, Pro
   * Coordinate and teach classes
   * Organise code review
   * Track trainee performance
-  * You can read more about the roles [here](teams-1/tech-education/education-roles/)
+  * You can read more about the roles [here](broken-reference)
 * **Products/Final Projects**
   * Building and supporting software that can are used in-house or by charities.&#x20;
   * Support the organisation with Agile coaching and team-building tools and skills.
