@@ -1,6 +1,6 @@
 # Join CYF Tech Products
 
-To join the CYF Products team, you must have signed the [volunteer form](https://forms.codeyourfuture.io/) and done our onboarding process.
+To join the CYF Products team, you MUST already be a CYF volunteer. See [this page](https://docs.codeyourfuture.io/volunteers/joining) for more information.&#x20;
 
 First of all, **thank you for your interest** in joining this team. We depend on volunteers like you, to keep our teams running and to be able to improve our products.
 
