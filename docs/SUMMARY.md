@@ -51,8 +51,7 @@
 ## 👩‍🏫 Volunteers
 
 * [Overview](volunteers/teams.md)
-* [Joining](volunteers/joining/README.md)
-  * [Join CYF Tech Products](volunteers/joining/join-cyf-tech-products.md)
+* [Joining](volunteers/joining.md)
 * [Onboarding Process](volunteers/onboarding-process.md)
 * [Teams](volunteers/teams-1/README.md)
   * [Tech Education](volunteers/teams-1/tech-education/README.md)
@@ -186,3 +185,4 @@
   * [Laptop Request](archive/archived-pages/laptop-request.md)
   * [Requesting a Laptop or Support](archive/archived-pages/requesting-a-laptop-or-support.md)
   * [Graduation Module](archive/archived-pages/graduation-module.md)
+  * [Join CYF Tech Products](archive/archived-pages/join-cyf-tech-products.md)
