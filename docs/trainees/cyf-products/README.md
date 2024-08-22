@@ -2,22 +2,22 @@
 
 ### Who are we?
 
-CYF Products is responsible for building and supporting software that can are used in-house or by charities. We also support the organisation with Agile coaching and team-building tools and skills.
+CYF Products is in charge of building software, also known as products, that can be used by us or by charities.&#x20;
 
 ### Vision
 
-Use the **knowledge of our Community** to build and support Products that can **automate processes** at CodeYourFuture and other non-profit organisations so that we can change people’s lives faster and more efficiently.&#x20;
+We want to use what our Community knows to build and support products that can make jobs easier at CodeYourFuture and beyond.
 
 ### Aims
 
-* Allow graduates to work in a product team, giving them real-life experience, which helps them when job-seeking.
-* An opportunity for high-performance trainees to learn how to work in a fast-paced team
-* Automate the process in CYF so that we can reach even more people with the amazing work done by our community
-* Have volunteers that can enhance their skills and mentor people on the job, be it on a CYF Product team or supporting a Final Project in your region
-* Delivering value to the users&#x20;
+* Let graduates and trainees who have finished our course work in a product team. This gives them real job experience, which helps when they look for work.
+* A chance for our best students to learn how to work in a busy team
+* Make our work at CYF easier and quicker so that we can help even more people with the great things our community does
+* Have volunteers who can get better at their skills and support our graduates' learning journey
+* Delivering value to the users: giving something useful to the people who use our products
 
 ### How can you join us?
 
-On the Product Teams page, you can find more about the [roles](https://docs.codeyourfuture.io/volunteers/teams-1/cyf-products-final-projects/roles).
+Read about the [roles](https://docs.codeyourfuture.io/volunteers/teams-1/cyf-products-final-projects/roles) available on each team
 
 If you want to join us, follow the steps on our [onboarding page](https://docs.codeyourfuture.io/volunteers/joining/join-cyf-tech-products).
