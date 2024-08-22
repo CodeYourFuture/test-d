@@ -1,17 +1,15 @@
 # PD Coursework Reviewer
 
-Coursework consists of different PD-related tasks and you would make sure those are done in time and properly, following the given instructions. This way we can give trainees regular feedback and encourage their progress.
+The PD coursework is a mix of tasks that show proficiency in the competencies they must have to get a job in tech.&#x20;
 
-As a PD Coursework Reviewer you:
+Check if
 
-* Can work remotely
-* Will review trainees' coursework tickets weekly
-* Will give your feedback regularly (to trainees and us)
-
-
+* they have followed the instructions (too little or too much isn't good)
+* give trainees honest and kind feedback with examples
+* encourage their progress
 
 **Time commitment:** 2 hours per week minimum
 
 ### Requirements:&#x20;
 
-* Skills that you should possess or be open to work on: flexibility, open-mindedness, assertiveness, reliability, patience
+* Skills: flexibility, open-mindedness, assertiveness, reliability, patience
