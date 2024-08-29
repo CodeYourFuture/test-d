@@ -6,9 +6,13 @@ description: Voluntary Role
 
 Developers that will be part of an Agile Scrum Team working on front-end and back-end development to deliver value to the users and organisation.
 
-This role is part of a **Product Team** responsible for building features that support the day to day processes of CYF.
+This role is part of a **Product Team** responsible for building features that support the day-to-day processes of CYF.
 
-The expected **commitment** is of 20 hours per week for Jr Developers and 10 hours for experienced developers, for at least 3 months. This includes coming to the weekly meetings. This is so you and Code Your Future get the most out of the experience.&#x20;
+**Commitment for Junior Developers**: you will need 10h per week of coding + meetings for 3 months and 5-10h to learn about the new technologies/ways of working in the first month.
+
+**Commitment for experienced developers:** 10h per week of coding + meetings for at least 3 months.&#x20;
+
+This way you and Code Your Future get the most out of the experience.&#x20;
 
 
 
