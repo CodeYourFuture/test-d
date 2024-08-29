@@ -70,7 +70,6 @@
       * [PD Coursework Reviewer](volunteers/teams-1/personal-development/roles/pd-coursework-reviewer.md)
       * [PD Mock Interviewer](volunteers/teams-1/personal-development/roles/pd-mock-interviewer.md)
       * [PD Syllabus Team](volunteers/teams-1/personal-development/roles/pd-syllabus-team.md)
-    * [Onboarding PD Volunteers](volunteers/teams-1/personal-development/template-agenda.md)
     * [PD Coach Guide](volunteers/teams-1/personal-development/mentor-guide.md)
   * [Community Coordination](volunteers/teams-1/co-co/README.md)
     * [Outreach Roles](volunteers/teams-1/co-co/outreach-roles.md)
@@ -186,3 +185,4 @@
   * [Overview](archive/archived-pages/overview.md)
   * [PD Coursework Reviewer](archive/archived-pages/pd-coursework-reviewer.md)
   * [PD Coach](archive/archived-pages/pd-coach.md)
+  * [Onboarding PD Volunteers](archive/archived-pages/template-agenda.md)
