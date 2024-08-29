@@ -71,7 +71,6 @@
       * [PD Mock Interviewer](volunteers/teams-1/personal-development/roles/pd-mock-interviewer.md)
       * [PD Syllabus Team](volunteers/teams-1/personal-development/roles/pd-syllabus-team.md)
     * [Onboarding PD Volunteers](volunteers/teams-1/personal-development/template-agenda/README.md)
-      * [PD Coursework Reviewer](volunteers/teams-1/personal-development/template-agenda/pd-coursework-reviewer.md)
       * [PD Coach](volunteers/teams-1/personal-development/template-agenda/pd-coach.md)
     * [PD Coach Guide](volunteers/teams-1/personal-development/mentor-guide.md)
   * [Community Coordination](volunteers/teams-1/co-co/README.md)
@@ -186,3 +185,4 @@
   * [Graduation Module](archive/archived-pages/graduation-module.md)
   * [Join CYF Tech Products](archive/archived-pages/join-cyf-tech-products.md)
   * [Overview](archive/archived-pages/overview.md)
+  * [PD Coursework Reviewer](archive/archived-pages/pd-coursework-reviewer.md)
