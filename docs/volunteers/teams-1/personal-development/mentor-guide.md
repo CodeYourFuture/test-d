@@ -1,8 +1,8 @@
 ---
 description: >-
-  This guides the PD Coaches and trainees in understanding their roles and
-  responsibilities in the meetings. This is group work, so you have 1 coach with
-  approximately 4-5 trainees with 1 hour meetings.
+  For PD Coaches and trainees/graduate to understand their roles and
+  responsibilities in the meetings. Each coach with be allocated to a group of
+  3-5 with 1-hour-long meetings.
 ---
 
 # PD Coach Guide
@@ -13,13 +13,13 @@ There are a couple of things that you should do before you start:
 
 * Read the [Code of Conduct](https://codeyourfuture.io/about/code-of-conduct/) carefully and ensure that you understand and agree with it
 * Read the Safeguarding presentation thoroughly
-* Read the Coach guidelines carefully and ensure you understand and agree with them. The guidelines should be followed throughout your volunteering experience
+* Read these Coach guidelines carefully and ensure you understand and agree with them. The guidelines should be followed throughout your volunteering experience
 
-After completing the steps above, you will be assigned to a group during the JS1 module.
+After completing the steps above, you will be assigned to a group according to common availability.
 
 ## Responsibilities
 
-### What Trainees are expected to do during the coaching programme?
+### What Trainees/Graduates are expected to do during the coaching programme?
 
 * Inform your group if you are not available for a meeting
 * Decide what you want to discuss in the next meeting
@@ -45,7 +45,7 @@ After completing the steps above, you will be assigned to a group during the JS1
 **Meeting topics**
 ------------------
 
-1 hour meetings every other week. Make sure to prepare for the meetings.
+1 hour meetings every other week. Make sure to prepare for the meetings. The below suggestion of meetings and topics ensures there is a logical way of building up the employability journey, but can be tweaked according to your group needs and knowledge.
 
 
 
