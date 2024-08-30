@@ -1,14 +1,14 @@
 # Welcome to CodeYourFuture Docs
 
-CodeYourFuture is a non-profit volunteer-led coding community for refugees, asylum seekers and other people from under-served backgrounds. We offer a free nine-month software development programme with the aim of preparing our trainees for a job as a junior developer. We meet one day a week for the workshop, and when arranged we also meet outside of this day to help trainees with coursework and projects.
+CodeYourFuture is a non-profit volunteer-led coding community for refugees, asylum seekers, and people from low-income backgrounds. We offer a programme with multiple courses that create different pathways to employment, from tech support to site reliability engineering.&#x20;
 
-In this website you'll find all of the documentation we use to run and organise CodeYourFuture.
+On [our Curriculum](https://curriculum.codeyourfuture.io/) you'll find all the documentation we use to run and organise CodeYourFuture.
 
 CodeYourFuture currently operates in the following regions:
 
 * Glasgow
 * London
-* North West (based in Manchester)
+* North West (based in Manchester and Sheffield)
 * West Midlands (based in Birmingham)
 * Cape Town, South Africa
 
@@ -23,4 +23,4 @@ As you can see on the Sidebar, this resource is split into 4 sections to offer:
 
 ## Editing this Website
 
-This website is hosted on [Gitbook](https://www.gitbook.com/). To get edit access, please speak to a CodeYourFuture Programme Manager.
+This website is hosted on [Gitbook](https://www.gitbook.com/). To get edit access, please speak to a CodeYourFuture Staff.
