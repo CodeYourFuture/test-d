@@ -6,7 +6,6 @@
 
 ## 🏨 Organisation
 
-* [Mission, Values & Working Principles](organisation/history.md)
 * [Our History](organisation/working-principles.md)
 * [Our Trainees Backgrounds](organisation/understand-students.md)
 * [Agreements & Policies](organisation/agreements-and-rules/README.md)
@@ -185,4 +184,5 @@
   * [PD Coursework Reviewer](archive/archived-pages/pd-coursework-reviewer.md)
   * [PD Coach](archive/archived-pages/pd-coach.md)
   * [Onboarding PD Volunteers](archive/archived-pages/template-agenda.md)
-  * [CYF Website](archive/archived-pages/cyf-website.md)
+  * [CYF Website](cyf-website.md)
+  * [Mission, Values & Working Principles](archive/archived-pages/history.md)
