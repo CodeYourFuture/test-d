@@ -3,7 +3,6 @@
 * [Welcome to CodeYourFuture Docs](README.md)
 * [Tech Education Curriculum](https://curriculum.codeyourfuture.io)
 * [Professional Development Syllabus](https://personal-development.codeyourfuture.io/)
-* [CYF Website](cyf-website.md)
 
 ## 🏨 Organisation
 
@@ -186,3 +185,4 @@
   * [PD Coursework Reviewer](archive/archived-pages/pd-coursework-reviewer.md)
   * [PD Coach](archive/archived-pages/pd-coach.md)
   * [Onboarding PD Volunteers](archive/archived-pages/template-agenda.md)
+  * [CYF Website](archive/archived-pages/cyf-website.md)
