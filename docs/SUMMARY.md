@@ -7,7 +7,6 @@
 ## 🏨 Organisation
 
 * [Our History](organisation/working-principles.md)
-* [Our Trainees Backgrounds](organisation/understand-students.md)
 * [Agreements & Policies](organisation/agreements-and-rules/README.md)
   * [Naming Accounts Consistently](organisation/agreements-and-rules/naming-accounts-consistently.md)
   * [Code of Conduct](https://codeyourfuture.io/about/code-of-conduct/)
@@ -186,3 +185,4 @@
   * [Onboarding PD Volunteers](archive/archived-pages/template-agenda.md)
   * [CYF Website](cyf-website.md)
   * [Mission, Values & Working Principles](archive/archived-pages/history.md)
+  * [Our Trainees Backgrounds](archive/archived-pages/understand-students.md)

@@ -89,7 +89,7 @@ You can find a guide for this section of the interview [here](interview-technica
 
 ## Who are our applicants?
 
-Our applicants come from a wide variety of backgrounds. You can see lots of background information on our students [here](../../../organisation/understand-students.md)
+Our applicants come from a wide variety of backgrounds. You can see lots of background information on our students [here](../understand-students.md)
 
 ## Interview Days
 
