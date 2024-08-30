@@ -12,6 +12,8 @@ CodeYourFuture currently operates in the following regions:
 * West Midlands (based in Birmingham)
 * Cape Town, South Africa
 
+You can read more about CYF on our [website](https://codeyourfuture.io/) and learn about our values and working principles in the[ About section](https://codeyourfuture.io/about/).
+
 ## Overview of CYF Docs
 
 As you can see on the Sidebar, this resource is split into 4 sections to offer:
