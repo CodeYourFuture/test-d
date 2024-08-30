@@ -14,6 +14,8 @@ CodeYourFuture currently operates in the following regions:
 
 You can read more about CYF on our [website](https://codeyourfuture.io/) and learn about our values and working principles in the[ About section](https://codeyourfuture.io/about/).
 
+If you want to know more about the eligibility criteria of our Programme read about it on [this page](https://codeyourfuture.io/itc/).
+
 ## Overview of CYF Docs
 
 As you can see on the Sidebar, this resource is split into 4 sections to offer:

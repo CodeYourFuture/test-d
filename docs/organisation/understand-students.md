@@ -4,11 +4,3 @@ While volunteering with CodeYourFuture, you will meet many kinds of trainees. Br
 
 **You can find the eligibility criteria on our** [**website.**](https://codeyourfuture.io/itc/)
 
-###
-
-
-
-
-
-###
-
