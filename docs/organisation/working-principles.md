@@ -1,8 +1,8 @@
 # Our History
 
-CodeYourFuture (CYF) is a UK non-profit organisation that trains refugees and underrepresented groups from low-income backgrounds to become software developers and helps them to find a career the tech industry.
+CodeYourFuture (CYF) is a UK non-profit organisation that trains refugees and underrepresented groups from low-income backgrounds and helps them to find a career in the tech industry.
 
-CYF trainees on the Software Development Course are trained by professionals from the industry, putting a strong emphasis on collaboration and product development through tech projects.
+CYF participants and trainees in our programme are trained by professionals from the industry, putting a strong emphasis on collaboration and learning the necessary skills for their job, be it IT Support or Software Engineer.
 
 CYF graduates work in companies like Capgemini, Financial Times, JP Morgan, BBC, Deloitte, STV, Ticketmaster and startups like Adzuna, Sensible Object, tlr and WeGotPop.
 
@@ -21,6 +21,8 @@ In January 2017, Mozafar, one of our London mentors, relocated to Glasgow and st
 2019 also saw CodeYourFuture spend more time attracting locally-born disadvantaged adults. Many of these underprivileged adults lack the skills they need to find meaningful work in the country of their birth, and yet they have few resources to gain these necessary skills.
 
 In 2020, we started in Birmingham in Partnership with Capgemini and the West Midlands Digital Skills Partnership. The South African chapter began its first class in Cape Town in mid-2020.
+
+When the tech market changed we had to change with it, and in 2024 we launched our new Programme. You can see details about how it is structured in [our Curriculum](https://curriculum.codeyourfuture.io/).&#x20;
 
 Our goal is to create a grassroots movement that anyone worldwide can replicate in their city.
 
