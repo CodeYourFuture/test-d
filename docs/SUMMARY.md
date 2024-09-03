@@ -17,7 +17,7 @@
     * [Leave of Absence Request](organisation/agreements-and-rules/student-agreement/leave-of-absence-request.md)
   * [Volunteer Agreement](https://bit.ly/cyf-volunteer-agreement)
   * [Complaints Procedure](https://codeyourfuture.io/about/complaints-process/)
-  * [Volunteer Expenses](organisation/agreements-and-rules/volunteer-expenses.md)
+  * [Volunteer Expenses](volunteers/volunteer-expenses.md)
 
 ## 👨‍🎓 Trainees and Alumni <a href="#trainees" id="trainees"></a>
 
@@ -95,7 +95,6 @@
       * [UI/UX Designer](volunteers/teams-1/cyf-products-final-projects/roles/ui-ux-designer.md)
       * [Business Owner (Lauch Module)](volunteers/teams-1/cyf-products-final-projects/roles/business-owner-final-projects.md)
       * [DevOps Engineer](volunteers/teams-1/cyf-products-final-projects/roles/devops-engineer.md)
-* [Leaving or Stepping Back](volunteers/leaving-or-stepping-back.md)
 
 ## 🚀 PROGRAMME DELIVERY <a href="#leaders" id="leaders"></a>
 
@@ -186,3 +185,4 @@
     * [Slack](archive/archived-pages/tools/slack/README.md)
       * [Slack for Volunteers](archive/archived-pages/tools/slack/for-volunteers.md)
       * [Slack for Trainees](archive/archived-pages/tools/slack/for-students.md)
+  * [Leaving or Stepping Back](archive/archived-pages/leaving-or-stepping-back.md)
