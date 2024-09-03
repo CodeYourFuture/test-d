@@ -1,8 +1,7 @@
 # Table of contents
 
 * [Welcome to CodeYourFuture Docs](README.md)
-* [Tech Education Curriculum](https://curriculum.codeyourfuture.io)
-* [Professional Development Syllabus](https://personal-development.codeyourfuture.io/)
+* [CodeYourFuture Curriculum](https://curriculum.codeyourfuture.io)
 
 ## 🏨 Organisation
 
