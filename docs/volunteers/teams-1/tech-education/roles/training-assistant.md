@@ -10,7 +10,7 @@ You will be working more closely with our trainees than anyone else in the organ
 
 
 
-**Requires technical experience?** Yes
+**Requires technical experience?** Yes, must know the technology that will be taught
 
 **Duration:** minimum 4 weeks
 
