@@ -118,7 +118,6 @@
     * [Success Criteria](leaders/running-the-course/assessment/success-criteria.md)
   * [Study Groups](leaders/running-the-course/study-groups.md)
 * [🌍 Launching the community in a new region](leaders/launching-the-community-in-a-new-city/README.md)
-  * [General Information](leaders/launching-the-community-in-a-new-city/general-information.md)
   * [Overview of our Process](leaders/launching-the-community-in-a-new-city/overview-of-our-process/README.md)
     * [Outreach Process](leaders/launching-the-community-in-a-new-city/overview-of-our-process/outreach-process.md)
     * [Application Process](leaders/launching-the-community-in-a-new-city/overview-of-our-process/student-application-process.md)
@@ -139,9 +138,9 @@
   * [The Ambassadors Challenge](leaders/launching-the-community-in-a-new-city/the-ambassadors-challenge.md)
   * [The first Ambassador Team](leaders/launching-the-community-in-a-new-city/the-first-ambassador-team.md)
   * [Volunteers Requirements](leaders/launching-the-community-in-a-new-city/volunteers-requirements.md)
-  * [Fundraising & budgeting](leaders/launching-the-community-in-a-new-city/fundraising-and-budgeting.md)
-  * [Finding a Space](leaders/launching-the-community-in-a-new-city/finding-a-space.md)
-  * [Partners](leaders/launching-the-community-in-a-new-city/partners.md)
+  * [Fundraising & budgeting](leaders/launching-the-community-in-a-new-city/general-information/fundraising-and-budgeting.md)
+  * [Finding a Space](leaders/launching-the-community-in-a-new-city/general-information/finding-a-space.md)
+  * [Partners](leaders/launching-the-community-in-a-new-city/general-information/partners.md)
 
 ## Archive
 
@@ -186,3 +185,4 @@
   * [Leaving or Stepping Back](archive/archived-pages/leaving-or-stepping-back.md)
   * [After the Course](archive/archived-pages/after-the-course/README.md)
     * [From Trainee to Volunteer](archive/archived-pages/after-the-course/from-trainee-to-volunteer.md)
+  * [General Information](archive/archived-pages/general-information.md)
