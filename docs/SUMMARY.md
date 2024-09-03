@@ -49,7 +49,6 @@
 
 * [Overview](volunteers/teams.md)
 * [Joining](volunteers/joining.md)
-* [Onboarding Process](volunteers/onboarding-process.md)
 * [Teams](volunteers/teams-1/README.md)
   * [Tech Education](volunteers/teams-1/tech-education/README.md)
     * [Overview](volunteers/teams-1/tech-education/overview.md)
@@ -98,7 +97,6 @@
       * [Business Owner (Lauch Module)](volunteers/teams-1/cyf-products-final-projects/roles/business-owner-final-projects.md)
       * [DevOps Engineer](volunteers/teams-1/cyf-products-final-projects/roles/devops-engineer.md)
 * [Tools](volunteers/tools/README.md)
-  * [Dashboard](volunteers/tools/cyf-dashboard.md)
   * [Slack](volunteers/tools/slack/README.md)
     * [Slack for Volunteers](volunteers/tools/slack/for-volunteers.md)
     * [Slack for Trainees](volunteers/tools/slack/for-students.md)
@@ -186,3 +184,5 @@
   * [CYF Website](cyf-website.md)
   * [Mission, Values & Working Principles](archive/archived-pages/history.md)
   * [Our Trainees Backgrounds](archive/archived-pages/understand-students.md)
+  * [Onboarding Process](archive/archived-pages/onboarding-process.md)
+  * [Dashboard](archive/archived-pages/cyf-dashboard.md)
