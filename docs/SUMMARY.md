@@ -121,7 +121,6 @@
 * [🌍 Launching the community in a new region](leaders/launching-the-community-in-a-new-city/README.md)
   * [Fundraising & budgeting](leaders/launching-the-community-in-a-new-city/general-information/fundraising-and-budgeting.md)
   * [Finding a Space](leaders/launching-the-community-in-a-new-city/general-information/finding-a-space.md)
-  * [Volunteers Requirements](leaders/launching-the-community-in-a-new-city/volunteers-requirements.md)
 
 ## Archive
 
@@ -184,5 +183,6 @@
     * [Challenge 2 - Strategy Challenge](archive/archived-pages/the-founders-team-challenge/challenge-2-strategy-challenge/README.md)
       * [The strategy challenge Template](archive/archived-pages/the-founders-team-challenge/challenge-2-strategy-challenge/the-strategy-challenge-template.md)
     * [Challenge 3: Find the Ambassador team](archive/archived-pages/the-founders-team-challenge/challenge-3-find-the-ambassador-team.md)
-  * [The Ambassadors Challenge](archive/archived-pages/the-ambassadors-challenge.md)
-* [The first Ambassador Team](archive/the-first-ambassador-team.md)
+  * [The Ambassadors Challenge](leaders/launching-the-community-in-a-new-city/the-ambassadors-challenge.md)
+  * [Volunteers Requirements](archive/archived-pages/volunteers-requirements.md)
+* [The first Ambassador Team](leaders/launching-the-community-in-a-new-city/the-first-ambassador-team.md)
