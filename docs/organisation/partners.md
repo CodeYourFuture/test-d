@@ -1,4 +1,6 @@
-# Partners
+# Partnerships
+
+TO BE UPDATED with overall partnership content
 
 Sourcing partners & sponsors will help not only with funding cohorts, but also with lots of the important other aspects of the organisation:
 

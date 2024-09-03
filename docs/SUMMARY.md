@@ -18,6 +18,7 @@
   * [Volunteer Agreement](https://bit.ly/cyf-volunteer-agreement)
   * [Complaints Procedure](https://codeyourfuture.io/about/complaints-process/)
   * [Volunteer Expenses](volunteers/volunteer-expenses.md)
+* [Partnerships](organisation/partners.md)
 
 ## 👨‍🎓 Trainees and Alumni <a href="#trainees" id="trainees"></a>
 
@@ -120,7 +121,6 @@
 * [🌍 Launching the community in a new region](leaders/launching-the-community-in-a-new-city/README.md)
   * [Fundraising & budgeting](leaders/launching-the-community-in-a-new-city/general-information/fundraising-and-budgeting.md)
   * [Finding a Space](leaders/launching-the-community-in-a-new-city/general-information/finding-a-space.md)
-  * [Partners](leaders/launching-the-community-in-a-new-city/general-information/partners.md)
   * [Overview of our Process](leaders/launching-the-community-in-a-new-city/overview-of-our-process/README.md)
     * [Outreach Process](leaders/launching-the-community-in-a-new-city/overview-of-our-process/outreach-process.md)
     * [Application Process](leaders/launching-the-community-in-a-new-city/overview-of-our-process/student-application-process.md)
