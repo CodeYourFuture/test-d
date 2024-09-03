@@ -13,7 +13,7 @@ When Graduates finish the course they often want to give back to CodeYourFuture 
 Before a Graduate can become a volunteer they should
 
 * Sign the [volunteer agreement](http://bit.ly/cyf\_vol\_agreement)
-* Attend a [Welcome Event](../../volunteers/teams-1/co-co/volunteer-outreach/welcome-event.md)
+* Attend a [Welcome Event](../../../volunteers/teams-1/co-co/volunteer-outreach/welcome-event.md)
 
 ## Roles
 
