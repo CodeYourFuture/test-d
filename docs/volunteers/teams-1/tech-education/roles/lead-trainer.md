@@ -8,7 +8,7 @@ People will look to you as a figure of authority and leadership. You will help c
 
 
 
-**Requires technical experience?** Yes
+**Requires technical experience?** Yes, minimum 1 year of professional experience in the technology that will be taught
 
 **Duration:** minimum 4 weeks
 

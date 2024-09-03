@@ -52,7 +52,7 @@
   * [Tech Education](volunteers/teams-1/tech-education/README.md)
     * [Roles](volunteers/teams-1/tech-education/roles/README.md)
       * [Lead Trainer](volunteers/teams-1/tech-education/roles/lead-trainer.md)
-      * [Technical Assistant](volunteers/teams-1/tech-education/roles/technical-assistant.md)
+      * [Technical Assistant](volunteers/teams-1/tech-education/roles/training-assistant.md)
       * [Education Buddy](volunteers/teams-1/tech-education/education-roles/education-buddy.md)
       * [Syllabus Team](https://syllabus.codeyourfuture.io/contributing/team)
     * [Coursework Feedback](volunteers/teams-1/tech-education/homework-feedback.md)
