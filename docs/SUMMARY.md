@@ -48,7 +48,6 @@
 ## 👩‍🏫 Volunteers
 
 * [Overview](volunteers/teams.md)
-* [Joining](volunteers/joining.md)
 * [Teams](volunteers/teams-1/README.md)
   * [Tech Education](volunteers/teams-1/tech-education/README.md)
     * [Overview](volunteers/teams-1/tech-education/overview.md)
@@ -186,3 +185,4 @@
   * [Our Trainees Backgrounds](archive/archived-pages/understand-students.md)
   * [Onboarding Process](archive/archived-pages/onboarding-process.md)
   * [Dashboard](archive/archived-pages/cyf-dashboard.md)
+  * [Joining](archive/archived-pages/joining.md)
