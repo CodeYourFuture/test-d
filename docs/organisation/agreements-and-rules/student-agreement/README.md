@@ -16,10 +16,10 @@ We expect our trainees to also fulfil the commitments below. [**Please read and 
 
 ### As a trainee I agree to:
 
-1. [Do my work](./#1.-do-your-work)  ✅
-2. [Come to class](./#2.-come-to-class) ✅
-3. [Take part on Slack](./#3.-take-part-on-slack) ✅
-4. [Ask for help](./#4.-ask-for-help) ✅
+1. [Do my work](./#id-1.-do-your-work)  ✅
+2. [Come to class](./#id-2.-come-to-class) ✅
+3. [Take part on Slack](./#id-3.-take-part-on-slack) ✅
+4. [Ask for help](./#id-4.-ask-for-help) ✅
 
 If you don't do these things, you will be dismissed as a trainee, because doing these things is what being a trainee means.
 
