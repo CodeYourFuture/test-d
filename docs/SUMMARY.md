@@ -16,8 +16,8 @@
     * [Leave of Absence Request](organisation/agreements-and-rules/student-agreement/leave-of-absence-request.md)
   * [Trainee Expenses](organisation/agreements-and-rules/trainee-expenses.md)
   * [Volunteer Agreement](https://bit.ly/cyf-volunteer-agreement)
-  * [Complaints Procedure](https://codeyourfuture.io/about/complaints-process/)
   * [Volunteer Expenses](volunteers/volunteer-expenses.md)
+  * [Complaints Procedure](https://codeyourfuture.io/about/complaints-process/)
 * [Partnerships](organisation/partners.md)
 
 ## 👨‍🎓 Trainees and Alumni <a href="#trainees" id="trainees"></a>
