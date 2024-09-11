@@ -20,4 +20,4 @@ We want to use what our Community knows to build and support products that can m
 
 Read about the [roles](https://docs.codeyourfuture.io/volunteers/teams-1/cyf-products-final-projects/roles) available on each team
 
-If you want to join us, follow the steps on our [onboarding page](https://docs.codeyourfuture.io/volunteers/joining/join-cyf-tech-products).
+If you want to join us, go to this channel [#join-cyf-tech-products](https://codeyourfuture.slack.com/archives/C05AAMJSAKC)&#x20;
