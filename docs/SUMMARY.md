@@ -29,6 +29,7 @@
 * [CYF Products](trainees/cyf-products/README.md)
   * [Our Products](trainees/cyf-products/our-products.md)
 * [Trainee Support](trainees/support/README.md)
+  * [Signpost](https://signposts.codeyourfuture.io/)
   * [Request a Laptop](https://cyf-signposts.netlify.app/topics/equipment/)
   * [How to get a bank account](trainees/support/how-to-get-a-bank-account.md)
 
