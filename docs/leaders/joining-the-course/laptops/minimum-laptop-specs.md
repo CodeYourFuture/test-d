@@ -33,7 +33,7 @@ These laptops are the minimum that we expect students to use.
 
 ### Recommended Specs
 
-These laptops are the recommended specs that we expect students to use to complete the [Fundamentals ](../../../archive/archived-pages/fundamentals/)and [Software Development Courses](../../../trainees/full-stack-course/)
+These laptops are the recommended specs that we expect students to use to complete the [Fundamentals ](../../../trainees/fundamentals/)and [Software Development Courses](../../../archive/archived-pages/full-stack-course/)
 
 * 2.5 GHz Intel i5 or Intel i7 or better processor
   * or AMD equivalent
