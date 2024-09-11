@@ -24,6 +24,7 @@
 ## 👨‍🎓 Trainees and Alumni <a href="#trainees" id="trainees"></a>
 
 * [Overview](trainees/overview.md)
+* [Course Elegibility](https://codeyourfuture.io/itc/)
 * [Digital Literacy Program](trainees/digital-literacy-program/README.md)
   * [WhatsApp Community Guidelines](trainees/digital-literacy-program/whatsapp-community-guidelines.md)
 * [CYF Products](trainees/cyf-products/README.md)
