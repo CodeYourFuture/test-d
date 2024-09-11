@@ -1,6 +1,6 @@
 # Our Products
 
-This is a high-level description of our in-house built products. If you are interested in [Final Projects](https://syllabus.codeyourfuture.io/finalproject/intro), you can read more about how it works on [this link](https://syllabus.codeyourfuture.io/finalproject/intro).
+This is a high-level description of our in-house built products. If you are interested in Launch Module you can read more about how it works on [this link](https://launch.codeyourfuture.io/).
 
 This is a description of the product teams we have at CYF right now\
 If you want to know more about the Launch Module go to these pages: [format](https://launch.codeyourfuture.io/) or [roles](https://docs.codeyourfuture.io/volunteers/teams-1/cyf-products-final-projects/roles).
