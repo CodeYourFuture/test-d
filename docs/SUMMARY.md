@@ -33,6 +33,7 @@
   * [Signpost](https://signposts.codeyourfuture.io/)
   * [Request a Laptop](https://cyf-signposts.netlify.app/topics/equipment/)
   * [How to get a bank account](trainees/support/how-to-get-a-bank-account.md)
+  * [Minimum Laptop Specs](trainees/support/minimum-laptop-specs.md)
 
 ## 👩‍🏫 Volunteers
 
@@ -85,8 +86,6 @@
 
 * [Joining the Course](leaders/joining-the-course/README.md)
   * [Laptops](leaders/joining-the-course/laptops/README.md)
-    * [Request a Laptop or Other Support](https://cyf-signposts.netlify.app/topics/equipment/)
-    * [Minimum Laptop Specs](leaders/joining-the-course/laptops/minimum-laptop-specs.md)
     * [Installing Ubuntu](leaders/joining-the-course/laptops/installing-ubuntu.md)
 * [Running the Course](leaders/running-the-course/README.md)
   * [Codewars](leaders/running-the-course/codewars/README.md)
@@ -185,5 +184,6 @@
   * [Hackathons](archive/archived-pages/hackathons-1.md)
   * [Codility](archive/archived-pages/codility.md)
   * [Study Groups](archive/archived-pages/study-groups.md)
-  * [Before the Course](archive/archived-pages/before-the-course/README.md)
-    * [Course Eligibility](archive/archived-pages/before-the-course/course-eligibility.md)
+  * [Before the Course](leaders/before-the-course/README.md)
+    * [Course Eligibility](leaders/before-the-course/course-eligibility.md)
+  * [Request a Laptop or Other Support](https://cyf-signposts.netlify.app/topics/equipment/)
