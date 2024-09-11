@@ -15,6 +15,7 @@
     * [Course Withdrawal Request](organisation/agreements-and-rules/student-agreement/course-withdrawal-request.md)
     * [Leave of Absence Request](organisation/agreements-and-rules/student-agreement/leave-of-absence-request.md)
   * [Trainee Expenses](organisation/agreements-and-rules/trainee-expenses.md)
+  * [Trainee Pregnancy Policy](organisation/agreements-and-rules/trainee-pregnancy-policy.md)
   * [Volunteer Agreement](https://bit.ly/cyf-volunteer-agreement)
   * [Volunteer Expenses](volunteers/volunteer-expenses.md)
   * [Complaints Procedure](https://codeyourfuture.io/about/complaints-process/)
@@ -30,7 +31,6 @@
 * [Trainee Support](trainees/support/README.md)
   * [Request a Laptop](https://cyf-signposts.netlify.app/topics/equipment/)
   * [How to get a bank account](trainees/support/how-to-get-a-bank-account.md)
-  * [Trainee Pregnancy Policy](trainees/support/trainee-pregnancy-policy.md)
 
 ## 👩‍🏫 Volunteers
 
