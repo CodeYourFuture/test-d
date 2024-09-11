@@ -26,7 +26,7 @@
   * [WhatsApp Community Guidelines](trainees/digital-literacy-program/whatsapp-community-guidelines.md)
 * [CYF Products](trainees/cyf-products/README.md)
   * [Our Products](trainees/cyf-products/our-products.md)
-* [Support](trainees/support/README.md)
+* [Trainee Support](trainees/support/README.md)
   * [Request a Laptop](https://cyf-signposts.netlify.app/topics/equipment/)
   * [Trainee Expenses](trainees/support/trainee-expenses.md)
   * [How to get a bank account](trainees/support/how-to-get-a-bank-account.md)
