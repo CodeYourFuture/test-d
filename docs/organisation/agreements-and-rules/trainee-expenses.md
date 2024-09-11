@@ -1,10 +1,11 @@
 # Trainee Expenses
 
-This policy applies to trainees enrolled on:
+This policy applies to _**trainees**_ who have signed the [Trainee agreement ](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement)on any of these below courses:
 
-* CYF Fundamentals
+* CYF Introduction to Programming
+* CYF Piscine
 * CYF Software Development Course
-* CYF Employment Programme
+* CYF Launch Module
 
 Everyone at CodeYourFuture has barriers to education. Some things we can help with. You are eligible if you cannot come to class because you can't afford:
 
