@@ -93,7 +93,6 @@
     * [Codewars Advice from Mentors](leaders/running-the-course/codewars/codewars-advice-from-mentors.md)
   * [Assessment](leaders/running-the-course/assessment/README.md)
     * [Milestones](leaders/running-the-course/assessment/milestones.md)
-    * [Success Criteria](leaders/running-the-course/assessment/success-criteria.md)
 * [🌍 Launching the community in a new region](leaders/launching-the-community-in-a-new-city/README.md)
   * [Fundraising & budgeting](leaders/launching-the-community-in-a-new-city/general-information/fundraising-and-budgeting.md)
   * [Finding a Space](leaders/launching-the-community-in-a-new-city/general-information/finding-a-space.md)
@@ -187,3 +186,4 @@
   * [Before the Course](leaders/before-the-course/README.md)
     * [Course Eligibility](leaders/before-the-course/course-eligibility.md)
   * [Request a Laptop or Other Support](https://cyf-signposts.netlify.app/topics/equipment/)
+  * [Success Criteria](archive/archived-pages/success-criteria.md)

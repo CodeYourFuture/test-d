@@ -6,7 +6,7 @@ description: How is progress defined?
 
 On our software development course, we set **milestones** along the way so everybody knows what is expected and how to meet those expectations. Volunteers and trainees should use milestones as an opportunity to check in and self-assess progress at key points in the course.
 
-We set these milestones by looking closely at successful and unsuccessful graduates and making guesses about measurable factors in that success. (See the [term definitions ](success-criteria.md)to understand what we mean by success.) They are informed guesses and we test and revise them a lot based on new information, which we share as much as possible.&#x20;
+We set these milestones by looking closely at successful and unsuccessful graduates and making guesses about measurable factors in that success. (See the [term definitions ](../../../archive/archived-pages/success-criteria.md)to understand what we mean by success.) They are informed guesses and we test and revise them a lot based on new information, which we share as much as possible.&#x20;
 
 What is a milestone? A milestone is a point on the course. At that point, we check a series of milestone factors.&#x20;
 
@@ -98,6 +98,6 @@ Over time, we might be able to develop more factors that tell us more things to 
 
 Sub-term definitions:  How is success defined?
 
-{% content-ref url="success-criteria.md" %}
-[success-criteria.md](success-criteria.md)
+{% content-ref url="../../../archive/archived-pages/success-criteria.md" %}
+[success-criteria.md](../../../archive/archived-pages/success-criteria.md)
 {% endcontent-ref %}
