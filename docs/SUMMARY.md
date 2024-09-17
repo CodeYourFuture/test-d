@@ -84,9 +84,6 @@
 
 ## 🚀 PROGRAMME DELIVERY <a href="#leaders" id="leaders"></a>
 
-* [Joining the Course](leaders/joining-the-course/README.md)
-  * [Laptops](leaders/joining-the-course/laptops/README.md)
-    * [Installing Ubuntu](leaders/joining-the-course/laptops/installing-ubuntu.md)
 * [Running the Course](leaders/running-the-course/README.md)
   * [Codewars](leaders/running-the-course/codewars/README.md)
     * [Codewars Advice from CYFers](leaders/running-the-course/codewars/codewars-advice-from-cyfers.md)
@@ -187,3 +184,6 @@
     * [Course Eligibility](leaders/before-the-course/course-eligibility.md)
   * [Request a Laptop or Other Support](https://cyf-signposts.netlify.app/topics/equipment/)
   * [Success Criteria](archive/archived-pages/success-criteria.md)
+  * [Joining the Course](archive/archived-pages/joining-the-course/README.md)
+    * [Laptops](archive/archived-pages/joining-the-course/laptops/README.md)
+      * [Installing Ubuntu](archive/archived-pages/joining-the-course/laptops/installing-ubuntu.md)
