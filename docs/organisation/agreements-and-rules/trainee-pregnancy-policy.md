@@ -69,4 +69,4 @@ If a child is coming to class, the Regional Programme Manager should:
 * inform the venue
 * update the event risk assessment
 
-We will provide a rest space for pregnant and breastfeeding people where necessary. We will provide a fridge or coolbox where possible. The trainee should arrange childcare for any child over six months old. Please see the Code Your Future [trainee expenses policy](../../organisation/agreements-and-rules/trainee-expenses.md).
+We will provide a rest space for pregnant and breastfeeding people where necessary. We will provide a fridge or coolbox where possible. The trainee should arrange childcare for any child over six months old. Please see the Code Your Future [trainee expenses policy](broken-reference).
