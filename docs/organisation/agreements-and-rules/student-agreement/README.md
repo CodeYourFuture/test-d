@@ -12,7 +12,7 @@ I confirm that I will
 
 * Follow the Code of Conduct ✅
 
-We expect our trainees to also fulfil the commitments below. Please read and[ sign this agreement.](https://codeyourfuture.eversign.com/embedded/a4062d0361324f7f97cba1105f164b24)
+We expect our trainees to also fulfil the commitments below. Please read and sign this agreement.
 
 #### As a trainee I agree to:
 
