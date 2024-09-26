@@ -14,6 +14,7 @@
     * [Personal Circumstances Forms](organisation/agreements-and-rules/student-agreement/personal-circumstances-forms.md)
     * [Course Withdrawal Request](organisation/agreements-and-rules/student-agreement/course-withdrawal-request.md)
     * [Leave of Absence Request](organisation/agreements-and-rules/student-agreement/leave-of-absence-request.md)
+    * [Learner Agreement](organisation/agreements-and-rules/student-agreement/learner-agreement.md)
   * [Trainee Expenses](https://docs.google.com/document/d/1Wn6WjSjNU8G-rp4H0NuoC9AzLp4YbuSe3b0dvNEfxP4/edit?usp=sharing)
   * [Trainee Pregnancy Policy](organisation/agreements-and-rules/trainee-pregnancy-policy.md)
   * [Volunteer Agreement](https://bit.ly/cyf-volunteer-agreement)
